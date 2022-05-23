@@ -1,0 +1,2 @@
+# LandingPageHamada
+My landing page.
